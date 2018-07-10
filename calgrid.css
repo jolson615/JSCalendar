@@ -9,7 +9,7 @@ div {
   width: 100%;
   display: grid;
   grid-template-columns: 65px 2fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-  grid-template-rows: 50px [uws] 100px 100px 100px [ues] 100px 100px [fidi] 100px [redhook] 100px [dumbo] 100px [kew] 100px auto [divider] auto [livingston] 100px [greenwich] 100px 100px [ridgefield] 100px auto [divider2] auto [stmonica] 100px [vstop];
+  grid-template-rows: 50px [uws] 100px 100px 100px [ues] 100px 100px [fidi] 100px [redhook] 100px [dumbo] 100px [kew] 100px auto [divider] auto [greenwich] 100px 100px [ridgefield] 100px auto [vstop];
   grid-gap: 10px;
   grid-auto-flow: dense;
 }

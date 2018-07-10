@@ -255,21 +255,6 @@
    "Last Updated": "2017-12-27"
  },
  {
-   "Location": "Rae Kushner Yeshiva High School",
-   "Area": "New Jersey",
-   "Class": "JavaScript and Virtual Reality",
-   "Class Code": "javascript",
-   "Site": "livingston",
-   "Start Date": "2018-08-13",
-   "End Date": "2018-08-24",
-   "Session": 8,
-   "Link": "https://upperlinecode.campbrainregistration.com",
-   "Min Age": 13,
-   "Max Age": 18,
-   "Current Available spots": 20,
-   "Last Updated": "2017-12-27"
- },
- {
    "Location": "Greenwich Academy",
    "Area": "Connecticut",
    "Class": "iOS Development with Swift",
@@ -283,21 +268,6 @@
    "Max Age": 18,
    "Current Available spots": 20,
    "Last Updated": "2017-12-27"
- },
- {
-   "Location": "St. Monica Catholic High School",
-   "Area": "Los Angeles",
-   "Class": "JavaScript and Virtual Reality",
-   "Class Code": "javascript",
-   "Site": "stmonica",
-   "Start Date": "2018-06-18",
-   "End Date": "2018-06-29",
-   "Session": 1,
-   "Link": "https://upperlinecode.campbrainregistration.com",
-   "Min Age": 13,
-   "Max Age": 18,
-   "Current Available spots": 20,
-   "Last Updated": "2018-02-26"
  },
  {
    "Location": "Ridgefield Academy",
